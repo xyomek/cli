@@ -1,5 +1,14 @@
 # Changelog
 
+## [9.1.3](https://github.com/npm/cli/compare/arborist-v9.1.2...arborist-v9.1.3) (2025-07-15)
+### Bug Fixes
+* [`c457c75`](https://github.com/npm/cli/commit/c457c7599afa430e3b0eb01bf9fee61464f6b8b7) [#8430](https://github.com/npm/cli/pull/8430) remove duplicate loop (#8430) (@G-Rath)
+* [`f7b056f`](https://github.com/npm/cli/commit/f7b056f28ac1a26fd875662768742df586c0b334) [#8400](https://github.com/npm/cli/pull/8400) clean up audit-report code (#8400) (@wraithgar)
+* [`f163d01`](https://github.com/npm/cli/commit/f163d011ade865b05b39b15aeee722809c223ae1) [#8372](https://github.com/npm/cli/pull/8372) use omit when checking ideal tree engine (#8372) (@owlstronaut)
+### Chores
+* [`3f60b5f`](https://github.com/npm/cli/commit/3f60b5f9621b43ae0b8796d3a7160a603748f756) [#8383](https://github.com/npm/cli/pull/8383) `@npmcli/template-oss@4.24.4` (#8383) (@wraithgar)
+* [`01f8cc6`](https://github.com/npm/cli/commit/01f8cc6f001e3211135fa0563f7129aed09dc46c) [#8381](https://github.com/npm/cli/pull/8381) `@npmcli/template-oss@4.24.3` (#8381) (@wraithgar)
+
 ## [9.1.2](https://github.com/npm/cli/compare/arborist-v9.1.1...arborist-v9.1.2) (2025-06-11)
 ### Bug Fixes
 * [`887385d`](https://github.com/npm/cli/commit/887385d7c0b6b584e0973a1f667c3b22eafc6e28) [#8356](https://github.com/npm/cli/pull/8356) arborist: use hosted-git-info to correctly parse resolved git urls (#8356) (@milaninfy)
